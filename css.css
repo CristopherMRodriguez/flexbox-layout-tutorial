@@ -1,0 +1,25 @@
+.red{
+  background-color: red;  
+  width: 400px;
+  height: 400px;
+  text-align: center;  
+  line-height: 100px;
+  flex-shrink: 1;
+}
+
+
+.blue{
+  background-color: blue;  
+  width: 400px;
+  height: 400px;
+  text-align: center;
+  line-height: 100px;
+  flex-shrink: 2;
+
+}
+
+.contain{
+  display: flex;
+  
+}
+
